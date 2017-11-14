@@ -12,7 +12,6 @@
         <title>Welcome page</title>
     </head>
     <body>
-        <h1>Welcome to Sem 2</h1>
         
         <table>
             <tr><td>Udfyld felterne</td>

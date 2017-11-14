@@ -9,7 +9,9 @@ package FunctionLayer;
  *
  * @author Mikkel Lindstrøm
  */
-public class Calculator {
+public interface Calculator {
+    
+    public void udregnPris();
     
     
     
